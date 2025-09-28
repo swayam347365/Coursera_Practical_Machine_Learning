@@ -1,6 +1,6 @@
 ---
 title: "Course Project - Build a machine learning model to predict how well weight lifting exercises is done"
-author: "Anyi Guo"
+author: "Swayam"
 date: "03/02/2019"
 output:
   html_document:
